@@ -1,0 +1,14 @@
+{
+  "name": "bmi_calculator_project_package",
+  "version": "1.0.0",
+  "description": "This is BMI Calculator Project using Express.js",
+  "main": "bmicalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit Chaturvedi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
